@@ -2,15 +2,15 @@
 
 A minimal SwiftUI macOS app template. Requires macOS 14 (Sonoma) and Xcode 15+.
 
+## Quick Start
+
+1. Open the project: `open MacDesktopApp.xcodeproj`
+2. Hit ⌘R to run
+3. Search for `TEMPLATE` in Xcode (⌘⇧F) to find all customization points
+
 ## Run
 
-```
-open MacDesktopApp.xcodeproj
-```
-
-Then hit ⌘R in Xcode.
-
-Or from the terminal:
+From the terminal:
 
 ```
 xcodebuild -project MacDesktopApp.xcodeproj -scheme MacDesktopApp -configuration Debug build
