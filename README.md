@@ -1,4 +1,4 @@
-# MacDesktopApp Template
+# Mac Desktop App Template
 
 A minimal SwiftUI macOS app template. Requires macOS 14 (Sonoma) and Xcode 15+.
 
