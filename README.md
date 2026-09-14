@@ -2,6 +2,8 @@
 
 A minimal SwiftUI macOS app template. Requires macOS 14 (Sonoma) and Xcode 15+.
 
+![Mac Desktop App Template](./macdesktopapp.png)
+
 ## Quick Start
 
 1. Open the project: `open MacDesktopApp.xcodeproj`

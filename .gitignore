@@ -15,6 +15,7 @@ DerivedData/
 # Swift Package Manager
 .build/
 .swiftpm/
+.swiftpm/
 
 # macOS
 .DS_Store
